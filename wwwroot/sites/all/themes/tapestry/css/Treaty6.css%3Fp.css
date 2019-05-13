@@ -1,0 +1,138 @@
+/* www.roopletheme.com */
+
+body { color: #1D2326; background: #20428C; }
+a { color: #20428C; }
+#outer-container { background: #FFFF66 url(../images/Treaty6/bg.png) repeat-x; } 
+#container { background: #fff url(../images/Treaty6/page-top.png) repeat-x; } 
+#banner { background-color: #fff; }
+#page-right { background: transparent url(../images/Treaty6/page-right.png)  no-repeat scroll 100% 0; }
+#page-left { background:  transparent url(../images/Treaty6/page-left.png) no-repeat scroll 0 0; }
+#container .page-bottom { background: #fff url(../images/Treaty6/page-bottom.png) repeat-x; }
+#round-right { background: transparent url(../images/Treaty6/round-bottom-right.png)  no-repeat 100% 0; }
+#round-left { background:  transparent url(../images/Treaty6/round-bottom-left.png) no-repeat 0 0; }
+#round-container { background:  transparent url(../images/Treaty6/round-bottom.png) repeat-x; }
+#leaderboard { background: #FFFFFF; } 
+#trailerboard { background: #20428C; } 
+#header { background: #FFFF66 url(../images/Treaty6/masthead-bg.png) repeat-x; } 
+#header { color: #fff; }
+#header a { color: #fff; }
+.site-slogan { color: #fff; }
+#header-bottom { background: #FFFF66 url(../images/Treaty6/masthead-bottom.png) repeat-x; } 
+#mission { border: 1px solid #20428C; color: #1D2326; background: #439968; }
+#mission a { color: #465D5F; }
+
+#region5 .unstyled-block { color: #fff; }
+#region5 .unstyled-block h2 { color: #fff; }
+#region5 .unstyled-block a{ color: #1D2326; }
+
+#mastfoot { background: #FFFF66 url(../images/Treaty6/mastfoot-bg.png) repeat-x; } 
+#mastfoot-bottom { background: #FFFF66 url(../images/Treaty6/mastfoot-bottom.png) repeat-x; } 
+#footer { color: #000000; }
+#footer a{ color: #000000; }
+
+/* box */
+.boxborder { background:url(../images/Treaty6/box-right.gif) 100% 0 repeat-y; }
+.bi { background:url(../images/Treaty6/box-left.gif) 0 0 repeat-y; }
+.bt { background:url(../images/Treaty6/box.gif) 100% 0 no-repeat; }
+.bt div { background:url(../images/Treaty6/box.gif) 0 0 no-repeat; }
+.bb { background:url(../images/Treaty6/box.gif) 100% 100% no-repeat; }
+.bb div { background:url(../images/Treaty6/box.gif) 0 100% no-repeat; }
+
+/* block theme styles */
+.color0-box-page-bg { background: #fff; }
+.color0-box-page-bg h2 { color: #20428C; }
+.color0-box-page-bg a { color: #FFFF66; }
+
+.color1-box-page-bg { background:#20428C; color:#fff; }
+.color1-box-page-bg h2 { color:#fff; }
+.color1-box-page-bg a { color: #439968; }
+
+.color2-box-page-bg { background:#FFFF66; color:#fff; }
+.color2-box-page-bg h2 { color:#fff; }
+.color2-box-page-bg a { color: #1D2326; }
+
+.color3-box-page-bg { background:#20428C; color:#1D2326; }
+.color3-box-page-bg h2 { color:#20428C; }
+.color3-box-page-bg a { color: #20428C; }
+
+.color4-box-page-bg { background:#439968; color:#1D2326; }
+.color4-box-page-bg h2 { color:#20428C; }
+.color4-box-page-bg a { color: #20428C; }
+
+.stripe0-box-page-bg { background: #fff; color: #1D2326; }
+.stripe0-box-page-bg h2 { background: #20428C; border-top: 1px solid #20428C; border-bottom: 1px solid #20428C; color: #20428C; }
+.stripe0-box-page-bg a { color: #FFFF66; }
+
+.stripe1-box-page-bg { background: #20428C; color: #fff; }
+.stripe1-box-page-bg h2 { background: #fff; border-top: 1px solid #1D2326; border-bottom: 1px solid #1D2326; color: #1D2326; }
+.stripe1-box-page-bg a { color: #439968; }
+
+.stripe2-box-page-bg { background: #FFFF66; color: #fff; }
+.stripe2-box-page-bg h2 { background: #439968; border-top: 1px solid #fff; border-bottom: 1px solid #fff; color: #1D2326; }
+.stripe2-box-page-bg a { color: #1D2326; }
+
+.stripe3-box-page-bg { background: #20428C; color: #1D2326; }
+.stripe3-box-page-bg h2 { background: #fff; border-top: 1px solid #439968; border-bottom: 1px solid #439968; color:#20428C; }
+.stripe3-box-page-bg a { color: #20428C; }
+
+.stripe4-box-page-bg { background: #439968; color: #1D2326; }
+.stripe4-box-page-bg h2 { background: #FFFF66; border-top: 1px solid #fff; border-bottom: 1px solid #fff; color: #fff; }
+.stripe4-box-page-bg a { color: #20428C; }
+
+.blk-outline1 { border: 1px solid #20428C; }
+.blk-outline1 h2, .blk-outline1 a { color: #20428C; }
+.blk-outline2 { border: 1px solid #FFFF66; }
+.blk-outline2 h2, .blk-outline2 a { color: #20428C; }
+.blk-outline3 { border: 1px solid #20428C; }
+.blk-outline3 h2, .blk-outline3 a { color: #20428C; }
+.blk-outline4 { border: 1px solid #439968; }
+.blk-outline4 h2, .blk-outline4 a { color: #439968; }
+.blk-solid1 { background: #20428C;  color:#fff; }
+.blk-solid1 a { color:#439968; }
+.blk-solid2 { background: #FFFF66;  color:#fff; }
+.blk-solid2 a { color:#439968; }
+.blk-solid3 { background: #20428C;  color:#1D2326; }
+.blk-solid3 a { color:#20428C; }
+.blk-solid4 { background: #439968;  color:#1D2326; }
+.blk-solid4 a { color:#20428C; }
+
+#region5 { color: #fff; }
+#region5 .blk-outline2 { border: 1px solid #fff; }
+#region5 .blk-outline2 a, #region5 .blk-outline2 h2  { color:#20428C; }
+#region5 .blk-solid2 { background: #fff;  color:#001F46; }
+#region5 .blk-solid2 a, #region5 .blk-solid2 h2  { color:#20428C; }
+
+.pager strong, .pager a, .pager a:link, .pager a:visited { background-color:#fff; border: 1px solid #20428C; }
+.pager a:hover { background-color:#20428C; color:#fff; }
+.pager strong { background-color:#20428C; color:#fff; }
+
+.sticky { border-bottom: 1px solid #20428C; }
+.comment { border: 1px solid #20428C; }
+#primary li a.active { color: #FFFF66; }
+#primary li a:hover { color: #FFFF66; }
+
+#suckerfishmenu	 a { color: #fff; }
+#suckerfishmenu	 a:active, #suckerfishmenu	 a:hover { background: #FFFF00; color: #000000;}
+#suckerfishmenu	 ul.menu li li a:link, #suckerfishmenu	 ul.menu li li a:visited { color: #fff; background: #439968; 
+ border-bottom: 1px solid #20428C; border-top: 1px solid #439968; border-right: 1px solid #439968;}
+#suckerfishmenu	 ul.menu li li { border-left: 1px solid #20428C; }
+#suckerfishmenu	 ul.menu li ul a { color: #fff; }
+#suckerfishmenu	 ul.menu li ul a:active, #suckerfishmenu ul.menu li ul a:hover { color: #FFFF00; background: #FFFFFF; }
+
+#suckerfishmenu	 ul.menu li li.expanded a {	background: #439968 url(../images/Treaty6/sfmenu-expand-1.png) 100% 50% no-repeat; }
+#suckerfishmenu	 ul.menu li li.expanded a:active, #suckerfishmenu	 ul.menu li li.expanded a:hover { background: #439968 url(../images/Treaty6/sfmenu-expand-1.png) 100% 50% no-repeat; }
+#suckerfishmenu	 ul.menu li ul a:active, #suckerfishmenu	 ul.menu li ul a:hover {   background: #439968;   text-decoration: none; }
+#suckerfishmenu	 ul.menu li li.expanded ul.menu a {   background: #439968; }
+#suckerfishmenu	 ul.menu li li.expanded ul.menu a:active, #suckerfishmenu	 ul.menu li li.expanded ul.menu a:hover {   background: #439968; }
+#suckerfishmenu	 ul.menu li li.expanded ul.menu li.expanded a { 	background: #439968 url(../images/Treaty6/sfmenu-expand-1.png) 100% 50% no-repeat; }
+#suckerfishmenu	 ul.menu li li.expanded ul.menu li.expanded a:active, #suckerfishmenu	 ul.menu li li.expanded ul.menu li.expanded a:hover { 
+	background: #439968 url(../images/Treaty6/sfmenu-expand-1.png) 100% 50% no-repeat;}
+
+.rollover-block h2 { color: #439968; background: #439968; }
+.rollover-block ul li a { color: #fff; background: #439968; }
+.rollover-block ul li a:active, .rollover-block ul li a:hover {  color: #439968; background: #439968;}
+
+thead th { border-bottom: 3px solid #20428C; }
+.even th, .even td, .odd th, .odd td { background-color:  #fff; border-bottom: 1px solid #20428C; }
+td.active {	background-color:#439968; }
+.messages { color: #20428C; border: 1px solid #20428C; }
